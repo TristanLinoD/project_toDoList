@@ -1,0 +1,20 @@
+{
+  "name": "project_todolist",
+  "version": "1.0.0",
+  "description": "To do list with React JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TristanLinoD/project_toDoList.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TristanLinoD/project_toDoList/issues"
+  },
+  "homepage": "https://github.com/TristanLinoD/project_toDoList#readme"
+}
